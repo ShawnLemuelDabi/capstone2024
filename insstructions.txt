@@ -1,0 +1,5 @@
+1. Install the required packages
+-  pip install jupyterlab
+
+2. Run jupyter lab
+-  jupyter lab
